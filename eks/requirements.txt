@@ -1,4 +1,5 @@
 -e .
 aws-cdk.aws-s3==1.126.0
 aws-cdk.aws-lambda==1.126.0
+aws-cdk.aws-eks==1.126.0
 mypy==0.910
